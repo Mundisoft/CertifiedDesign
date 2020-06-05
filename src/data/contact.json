@@ -3,17 +3,17 @@
         "title": "Contact Information",
         "address": {
             "icon": "ion-android-map",
-            "location": "Stock Building, 125 Main Street 1st Lane, San Francisco, USA"
+            "location": "125 Main Street 1st Lane, Opoho, Dunedin, New Zealand"
         },
         "telephone": {
             "icon": "ion-ios-telephone-outline",
-            "no_1": "(001) 24568 365 987)",
-            "no_2": "(001) 65897 569 784)"
+            "no_1": "(64) 027 255 1485",
+            "no_2": "(64) 0800 47 42 42"
         },
         "mail": {
             "icon": "ion-ios-email-outline",
-            "email": "infor@example.com",
-            "web": "example.com"
+            "email": "richard@certifieddesign.co.nz",
+            "web": "certifieddesign.co.nz"
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "footerLogo": "assets/img/logo/logo-light.png",
-    "footerDesc": "Lorem ipsum dolor sit amet consect adipisici elit, sed do eiusmod tempor incididuk ut labore et dolore magna aliqua Ut enim 126",
+    "footerDesc": "If it's mechanical, and you need an engineer, give me a call. I specialise in immediate response to your Heavy Vehicle Repair and Certification needs.",
     "footerLinkTitleOne": "usefull link 01",
     "navListOne": [
         {
@@ -49,16 +49,13 @@
     ],
     "footerContactWidget": {
         "widgetTitle": "contact us",
-        "widgetDesc": "Your address goes here",
+        "widgetDesc": "125 Main Street 1st Lane, Opoho, Dunedin, New Zealand",
         "contactInfo": [
             {
-                "title": "<span>P:</span>99 55 66 88 526"
+                "title": "<span>P:</span>027 255 1485"
             },
             {
-                "title": "<span>F:</span>55 44 77 62"
-            },
-            {
-                "title": "<span>E:</span>cons@email.com"
+                "title": "<span>E:</span>richard@certifieddesign.co.nz"
             }
         ]
     }
