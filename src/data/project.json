@@ -27,20 +27,20 @@
     "projectGrid": [
         {
             "id": 1,
-            "title": "Construction Land Minning",
-            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "title": "V8 SuperTrike",
+            "desc": "Check out this bitchin' trike I made",
             "image": "assets/img/projects/project-1.jpg"
         },
         {
             "id": 2,
-            "title": "Work Manage Construction",
-            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "title": "Stinkin' Sick Buggy",
+            "desc": "It honks",
             "image": "assets/img/projects/project-2.jpg"
         },
         {
             "id": 3,
-            "title": "Material Engineering Const",
-            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "title": "Big White Truck",
+            "desc": "I also had something to do with this",
             "image": "assets/img/projects/project-3.jpg"
         },
         {
