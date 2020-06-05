@@ -12,8 +12,6 @@
 
     <Testimonial />
 
-    <TeamJob />
-
     <BrandCarousel addClass="grey-bg" />
 
     <Footer />
@@ -35,7 +33,6 @@ import AboutSection from "@/components/sections/AboutSection";
 import ProjectGridSlider from "@/components/sections/ProjectGridSlider";
 import ServiceTabs from "@/components/sections/ServiceTabs";
 import Testimonial from "@/components/Testimonial";
-import TeamJob from "@/components/sections/TeamJob";
 import BrandCarousel from "@/components/BrandCarousel";
 import Footer from "@/components/Footer";
 import OffCanvasMobileMenu from "@/components/OffCanvasMobileMenu";
@@ -54,7 +51,6 @@ export default {
     ProjectGridSlider,
     ServiceTabs,
     Testimonial,
-    TeamJob,
     BrandCarousel,
     Footer,
     OffCanvasMobileMenu

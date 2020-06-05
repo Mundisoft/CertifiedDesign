@@ -11,10 +11,6 @@
 
         <Experience :experience="data.experience" />
 
-        <FunFact />
-
-        <TeamMember :teamData="data.team" />
-
         <Testimonial />
 
         <BrandCarousel addClass="grey-bg" />
@@ -38,8 +34,6 @@
     import AboutSectionThree from '../components/sections/AboutSectionThree'
     import Policy from '../components/Policy'
     import Experience from '../components/Experience'
-    import FunFact from '../components/FunFact'
-    import TeamMember from '../components/sections/TeamMember'
     import Testimonial from '../components/Testimonial'
     import BrandCarousel from '../components/BrandCarousel'
     import Footer from '../components/Footer'
@@ -53,8 +47,6 @@
             AboutSectionThree,
             Policy,
             Experience,
-            FunFact,
-            TeamMember,
             Testimonial,
             BrandCarousel,
             Footer,
