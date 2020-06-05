@@ -17,8 +17,6 @@
 
         <Testimonial />
 
-        <BlogSection addClass="grey-bg" />
-
         <BrandCarousel />
 
         <Footer />
@@ -42,7 +40,6 @@
     import LatestProject from '../components/sections/LatestProject';
     import TeamJob from '../components/sections/TeamJob';
     import Testimonial from '../components/Testimonial';
-    import BlogSection from '../components/sections/BlogSection';
     import BrandCarousel from '../components/BrandCarousel';
     import Footer from '../components/Footer';
     import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
@@ -59,17 +56,15 @@
             HeroOne,
             ServiceSlider,
             FunFact,
-            AboutSection,
             LatestProject,
             TeamJob,
             Testimonial,
-            BlogSection,
             BrandCarousel,
             Footer,
             OffCanvasMobileMenu
         },
         metaInfo: {
-            title: 'Castro - Home One',
+            title: 'Certified Design Ltd',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

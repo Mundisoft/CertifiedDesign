@@ -18,22 +18,19 @@
   ],
   "heroTwo": [
     {
-      "title": "Makes Your Dream With Castro",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
-      "image": "assets/img/slider/slider3.jpg",
-      "addClass": "hero-slider__content--center"
+      "title": "Designed And Certified With CDL",
+      "desc": "Certified Design Ltd specialises in all aspects of mechanical engineering.",
+      "image": "assets/img/slider/slider3.jpg"
     },
     {
-      "title": "Build Your Dream With Passion",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
-      "image": "assets/img/slider/slider2.jpg",
-      "addClass": "hero-slider__content--center"
+      "title": "Heavy Vehicle Design And Certification",
+      "desc": "From bent tow eye replacement, to specialist trailer design. Certified Design Ltd specializes in all aspects of mechanical engineering.",
+      "image": "assets/img/slider/slider2.jpg"
     },
     {
-      "title": "Build Your Dream With Castro",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
-      "image": "assets/img/slider/slider1.jpg",
-      "addClass": "hero-slider__content--center"
+      "title": "Get Certified With CDL",
+      "desc": "If it's mechanical and you need an engineer, give me a call. I specialise in immediate response to your Heavy Vehicle Repair and Certification needs.",
+      "image": "assets/img/slider/slider1.jpg"
     }
   ],
   "heroThree": [
