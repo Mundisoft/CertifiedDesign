@@ -3,7 +3,7 @@
 
         <Header />
 
-        <Breadcrumb :items="items" title="Service" />
+        <Breadcrumb :items="items" title="Services" />
 
         <div class="page-wrapper section-space--inner--120">
             <!--Service section start-->
@@ -65,14 +65,14 @@
                         to: "/"
                     },
                     {
-                        text: 'Service',
+                        text: 'Services',
                         active: true
                     }
                 ]
             }
         },
         metaInfo: {
-            title: 'Castro - Service',
+            title: 'CDL - Services',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

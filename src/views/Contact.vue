@@ -54,7 +54,7 @@
             }
         },
         metaInfo: {
-            title: 'Castro - Contact Us',
+            title: 'CDL - Contact Us',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

@@ -68,7 +68,7 @@
             }
         },
         metaInfo: {
-            title: 'Castro - About Us',
+            title: 'CDL - About Us',
             htmlAttrs: {
                 lang: 'en',
                 amp: true

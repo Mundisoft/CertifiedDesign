@@ -29,14 +29,14 @@
                                         <i :class="data.contactInfo.telephone.icon"></i>
                                     </span>
                                     <span class="text">
-                                        <a href="tel:123456789">{{ data.contactInfo.telephone.no_1 }}</a>
-                                        <a href="tel:123456789">{{ data.contactInfo.telephone.no_1 }}</a>
+                                        <a href="tel:0272551485">{{ data.contactInfo.telephone.no_1 }}</a>
+                                        <a href="tel:0800474242">{{ data.contactInfo.telephone.no_2 }}</a>
                                     </span>
                                 </li>
                                 <li>
                                     <span class="icon"><i :class="data.contactInfo.mail.icon"></i></span>
                                     <span class="text">
-                                        <a href="mailto:infor@example.com">{{ data.contactInfo.mail.email }}</a>
+                                        <a href="mailto:richard@certifieddesign.co.nz">{{ data.contactInfo.mail.email }}</a>
                                         <a href="#">{{ data.contactInfo.mail.web }}</a>
                                     </span>
                                 </li>

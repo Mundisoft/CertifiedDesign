@@ -18,7 +18,7 @@
                         <h1>{{ data.aboutUs.title }}</h1>
                         <h4>{{ data.aboutUs.shortDesc }}</h4>
                         <p>{{ data.aboutUs.desc }}</p>
-                        <router-link to="service" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Our Service</router-link>
+                        <router-link to="service" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Our Services</router-link>
                     </div>
                 </div>
             </div>
