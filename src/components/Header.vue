@@ -114,40 +114,20 @@
                   <div class="header-navigation__nav position-static">
                     <nav>
                       <ul>
-                        <li class="has-children has-children--multilevel-submenu">
+                        <li>
                           <router-link to="/">HOME</router-link>
-                          <ul class="submenu">
-                            <li>
-                              <router-link to="/">Home One</router-link>
-                            </li>
-                            <li>
-                              <router-link to="/home-two">Home Two</router-link>
-                            </li>
-                            <li>
-                              <router-link to="/home-three">Home Three</router-link>
-                            </li>
-                          </ul>
                         </li>
                         <li>
                           <router-link to="/about">ABOUT</router-link>
                         </li>
 
-                        <li class="has-children has-children--multilevel-submenu">
+                        <li>
                           <router-link to="/service">SERVICES</router-link>
-                          <ul class="submenu">
-                            <li>
-                              <router-link to="/service">Services</router-link>
-                            </li>
-                            <li>
-                              <router-link to="/service-details">Service Details</router-link>
-                            </li>
-                          </ul>
                         </li>
 
                         <li>
                           <router-link to="/project">PROJECTS</router-link>
                         </li>
-
                         <li>
                           <router-link to="/contact">CONTACT</router-link>
                         </li>
