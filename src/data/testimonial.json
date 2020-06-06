@@ -3,24 +3,24 @@
     "testimonialSliders": [
         {
             "id": 1,
-            "name": "Anamika",
-            "designation": "Founder",
+            "name": "Rodger Brinks",
+            "designation": "Fulton Hogan",
             "thumb": "assets/img/testimonial/1.jpg",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+            "content": "Richard certified our trucks, He was great."
         },
         {
             "id": 2,
-            "name": "Dominic Palma",
-            "designation": "Chairman",
+            "name": "Struan Hope",
+            "designation": "Chairman - Engineers Foundation",
             "thumb": "assets/img/testimonial/2.jpg",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+            "content": "Richard responded immediately to my call, and had certified and running in no time at all."
         },
         {
             "id": 3,
             "name": "Erik Jhonson",
             "designation": "Manager",
             "thumb": "assets/img/testimonial/3.jpg",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipisi elit sed do eiusmod tempor incididu ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+            "content": "Dealing with Certified Design has been an absolute pleasure, we could not be happier with our towbar design"
         }
     ]
 }
